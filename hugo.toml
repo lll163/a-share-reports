@@ -1,0 +1,22 @@
+baseURL = "https://lll163.github.io/a-share-reports/"
+languageCode = "zh-cn"
+title = "A股复盘报告"
+theme = "PaperMod"
+
+[params]
+  description = "每日A股收盘复盘 + 游资龙虎榜报告"
+  defaultTheme = "auto"
+  env = "production"
+  ShowReadingTime = false
+  ShowToc = true
+
+[params.homeInfoParams]
+  Title = "📊 A股复盘报告"
+  Content = "每日收盘复盘 + 游资龙虎榜，自动生成存档。"
+
+[[params.socialIcons]]
+  name = "github"
+  url = "https://github.com/lll163/a-share-reports"
+
+[outputs]
+  home = ["HTML", "RSS"]
