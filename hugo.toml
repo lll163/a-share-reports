@@ -2,6 +2,7 @@ baseURL = "https://lll163.github.io/a-share-reports/"
 languageCode = "zh-cn"
 title = "A股复盘报告"
 theme = "PaperMod"
+publishDir = "docs"
 
 [params]
   description = "每日A股收盘复盘 + 游资龙虎榜报告"
