@@ -5,6 +5,10 @@ draft: false
 categories: ["复盘"]
 tags: ["复盘"]
 summary: "2026-06-12 月度复盘"
+cover:
+  image: "images/covers/2026-06-12.svg"
+  caption: "2026-06-12 收盘复盘"
+  relative: true
 ---
 
 # 月度预判总结 2026-06-12

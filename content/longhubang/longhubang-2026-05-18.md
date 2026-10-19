@@ -5,6 +5,10 @@ draft: false
 categories: ["龙虎榜"]
 tags: ["龙虎榜"]
 summary: "2026-05-18 龙虎榜"
+cover:
+  image: "images/covers/2026-05-18.svg"
+  caption: "2026-05-18 收盘复盘"
+  relative: true
 ---
 
 # 2026-05-18 游资龙虎榜报告

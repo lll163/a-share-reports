@@ -5,6 +5,10 @@ draft: false
 categories: ["龙虎榜"]
 tags: ["龙虎榜"]
 summary: "2026-05-15 龙虎榜"
+cover:
+  image: "images/covers/2026-05-15.svg"
+  caption: "2026-05-15 收盘复盘"
+  relative: true
 ---
 
 # 🐉 每日游资龙虎榜报告 — 2026-05-15（周四）

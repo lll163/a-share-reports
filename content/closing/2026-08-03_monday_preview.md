@@ -5,6 +5,10 @@ draft: false
 categories: ["复盘"]
 tags: ["复盘"]
 summary: "2026-08-03 周一前瞻"
+cover:
+  image: "images/covers/2026-08-03.svg"
+  caption: "2026-08-03 收盘复盘"
+  relative: true
 ---
 
 # 周一早盘前瞻 2026-08-03

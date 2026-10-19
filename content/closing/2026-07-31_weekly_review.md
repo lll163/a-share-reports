@@ -5,6 +5,10 @@ draft: false
 categories: ["复盘"]
 tags: ["复盘"]
 summary: "2026-07-31 周度复盘"
+cover:
+  image: "images/covers/2026-07-31.svg"
+  caption: "2026-07-31 收盘复盘"
+  relative: true
 ---
 
 # 周度预判复盘 2026-07-31
